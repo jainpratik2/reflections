@@ -3,3 +3,8 @@ what happens when you initialise a repository? why do you need it?
 when init a repository git initialize a empty reposirtory for version tracking of files. its empty at th e beginning. commit is not there by fefault and master is current displayed.
 
 we need it to keep tracks of different verison of our files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is intermediate area b/n wrking directoyr and repository.
+it helps user tor eview changes last time before placing it repository.
