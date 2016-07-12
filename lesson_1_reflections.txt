@@ -1,0 +1,38 @@
+How did the viewing  a diff between 2 versions of a file helps you spot a bug
+
+it was helpful because
+
+1) Diff s/w helps to shows us only a section of a files where changes have been made. so obiously its easier to spot it.
+
+2) for small files we can spot a difference but for larger files ist saves a hell lot of time.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+it helps because
+
+1)As a programmer I can always go back and see the chnages made by me or others .
+
+2) Helps in do and undo changes made recently.
+
+3) will be very useful for tailored products.
+
+4) Helps in customising requirements from clients.
+
+
+Q) As a programmer , when would you want to have version of your code saved?
+A) When I choose to save a version. This means I have a basic idea of what chnages I have made and can easily undo those chnages.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros: provides flexibility
+Avoid creating multiple checkpoints with small changes .
+Helps in adding comment and user has an idea at what point file is committed.
+
+cons:
+User might looses chnages not saved.
+easy to forget to commit or made committ after long changes. in both case its difficult to compare file with previous versions.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+GIT is generally used for projects in which files are interrelated to each otherso it make more sense to allow multiple file saving. Goc dos are basically when user work on single document so it doesnt make mushc sense for multiple saving.
