@@ -10,3 +10,9 @@ Staging area is intermediate area b/n wrking directoyr and repository.
 it helps user tor eview changes last time before placing it repository.
 How can you use the staging area to make sure you have one commit per logical change?
 Add  files from working copy to staging area only for that particular change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ans ) it helps a) Branches will have label , clear name for label means easy way to understand what changes happened at what time.  Seconly branches help in reverting back to old case rather tahn using commit id.
+
+Thridly, It allows to work on differnet features, bug fixing without bothering main master branch.
