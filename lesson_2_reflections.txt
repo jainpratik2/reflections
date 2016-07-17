@@ -16,3 +16,9 @@ What are some situations when branches would be helpful in keeping your history 
 ans ) it helps a) Branches will have label , clear name for label means easy way to understand what changes happened at what time.  Seconly branches help in reverting back to old case rather tahn using commit id.
 
 Thridly, It allows to work on differnet features, bug fixing without bothering main master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams helps in giving clear idea of when particular branch is created. How is reachability from that branch  to other branches. And what are its parent branch.
+
+
