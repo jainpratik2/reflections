@@ -17,8 +17,13 @@ c) our changes will be revert back
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Fork is generally used when we want to replicate exisiting repoistory on gitHub.For example say alice has is working on receipe and has her own repo for it. I can forked that receipe on my id and can make changes  on it directly without affecting her origin.
+We just cant push changes into her original repo. we need permission from her.
 
+Clone is used to clone repo from github to git or from git to git. 
+change smade on locla workstation can be pushed to github easily.
+
+Branches are used for making logical changes and commit it to local repos.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
