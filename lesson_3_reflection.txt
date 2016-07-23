@@ -27,7 +27,7 @@ Branches are used for making logical changes and commit it to local repos.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+ Benfit is that we can solve merging issues. if we use pull then it will fetch copies from and merge it into our repo and we will not able to find out what changes it has brought. if we use git fetch then it will first fetch copies into our local system and will not merge. so we can use git log and git diff to view changes. This helps lot in savoiding merging conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
