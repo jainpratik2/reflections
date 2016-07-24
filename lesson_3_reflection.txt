@@ -32,9 +32,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+   without version control , solving merging conflicts will be difficult.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Seprate branch help other team member to review our code with pull request and recomend some changes if needed. once we are happy with changes we can merge it into master and hence keep master branch always update and make sure that it meets coding stnadard and doesnt accidently break.
